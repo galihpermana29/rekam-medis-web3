@@ -18,7 +18,7 @@ make sure you use node v16 >
 
 ### 4. Try to write and fill the form, and you are already storing the data to block chain!!
 
-this client already deployed in this url: 
+this client already deployed in this url: https://medical-records-web3.netlify.app/
 
 
 # In contract branch there is a smart contract that has been deployed to goerli eth
