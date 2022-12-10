@@ -10,13 +10,16 @@ make sure you use node v16 >
 
 # How it works?
 
-### you have to download metamask ext in your browser
+### 1. You have to download metamask ext in your browser
 
-### after that connect your wallet to goerli net
+### 2. After that connect your wallet to goerli net
 
-### after connected, you must have goerli eth amounts, if you are not having that, you can use goerli faucet
+### 3. After connected, you must have goerli eth amounts, if you are not having that, you can use goerli faucet
 
-### try to write and fill the form, and you are already storing the data to block chain!!
+### 4. Try to write and fill the form, and you are already storing the data to block chain!!
+
+this client already deployed in this url: 
+
 
 # In contract branch there is a smart contract that has been deployed to goerli eth
 
